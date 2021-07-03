@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# TLauncher Installation Guide
 
-You can use the [editor on GitHub](https://github.com/UwUham/uwuham.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Downloading the installer
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+- Go to [TLauncher's official website.](https://tlauncher.org/en/)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Make an account. (click "Sign up" and fill out the form.)
 
-```markdown
-Syntax highlighted code block
+- Click on "Download TL".
 
-# Header 1
-## Header 2
-### Header 3
+- Select your operating system. For example, if you are on a Windows 10 system, click on the windows icon.
 
-- Bulleted
-- List
+- Run the installer file once it downloads.
 
-1. Numbered
-2. List
+## Installing TLauncher
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+- Literally just click continue a bunch of times.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Making an account
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/UwUham/uwuham.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+- Tick the box labelled "Accounts" in the bottom right corner.
 
-### Support or Contact
+- From the drop-down menu above it, click on "Configure Accounts"
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- With the account details you used earlier, login.
+
+- Click "Save Account" and back out of that menu.
+
+- If it does not happen automatically, select your account from the previously mentioned drop-down menu.
+
+## Selecting a version
+
+
+- From the second drop down menu, select a version.
+
+  - Note: Choose something with ForgeOptiFine. Just do it. It makes minecraft run so much better and it's definitely worth it.
+
+  - Another note: Choose something 1.16.1 or higher so that you can play on the official DILFS server.
+
+- Click install and wait for it to install.
+
+## Entering the world of Minecraft
+
+
+- Click "Enter the game" and press "Ok" to any popups.
+
+## Joining the official DILFS server
+
+
+- Click on "Multiplayer"
+
+- Click on "Add server"
+
+- In the "Server Name" box type "DILFS"
+
+- In the "Server Address" box type `mc.dilfs.xyz`
+
+- Click "Connect"
