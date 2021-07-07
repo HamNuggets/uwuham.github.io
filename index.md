@@ -21,7 +21,7 @@
 ## Making an account
 
 
-- Tick the box labelled "Accounts" in the bottom right corner.
+- Tick the box labelled "Accounts" in the bottom corner.
 
 - From the drop-down menu above it, click on "Configure Accounts"
 
