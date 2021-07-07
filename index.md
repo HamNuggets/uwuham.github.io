@@ -38,7 +38,7 @@
 
   - Note: Choose something with ForgeOptiFine. Just do it. It makes minecraft run so much better and it's definitely worth it.
 
-  - Another note: Choose something 1.16.1 or higher so that you can play on the official DILFS server.
+  - Another note: Choose something 1.16.1 or higher so that you can play on most modern cracked servers and LAN parties.
 
 - Click install and wait for it to install.
 
@@ -46,16 +46,3 @@
 
 
 - Click "Enter the game" and press "Ok" to any popups.
-
-## Joining the official DILFS server
-
-
-- Click on "Multiplayer"
-
-- Click on "Add server"
-
-- In the "Server Name" box type "DILFS"
-
-- In the "Server Address" box type `mc.dilfs.xyz`
-
-- Click "Connect"
